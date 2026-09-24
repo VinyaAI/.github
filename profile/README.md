@@ -6,4 +6,4 @@
 
 Vinya AI is an open-source software company that builds products to support the AI ecosystem. We recently built [SubState](https://github.com/VinyaAI/SubState), an open-source streaming API and real-time database. It keeps a live view of changing data and syncs each subscription with only the updates that subscriber asked for.
 
-[Try our Uber simulation](https://vinyaai.github.io/substate-demo/) · [Contact](mailto:Contact@Vinya.ai)
+[Try our Uber simulation](https://vinyaai.github.io/substate-demo/) · [Contact Us](mailto:Contact@Vinya.ai)
